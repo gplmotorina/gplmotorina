@@ -1,1 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1415301332495237140?hideSpotify=true&hideTag=true&theme=dark&bg=3b3b3b3b)](https://discord.com/users/1415301332495237140)
+<p align="center">
+  <a href="https://discord.com/users/1415301332495237140"> <img align="center" src="[![Discord Presence](https://lanyard.kyrie25.dev/api/1415301332495237140?bg=111&hideSpotify=true&hideNameplate=false&forceGradient=false&animatedDecoration=false&hideStatus=false&hideClan=true&hideActivity=false&hideBadges=true&hideTimestamp=true&showBanner=true&imgStyle=circle&theme=dark&waveColor=222&borderRadius=25px&imgBorderRadius=25px)](https://discord.com/users/1415301332495237140)"/></a>
+  <br>
+  <br>
